@@ -1,0 +1,2 @@
+# savedLinkExtension
+FacebookSavedLinkChromeExtension
